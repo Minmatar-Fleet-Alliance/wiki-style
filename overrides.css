@@ -1,0 +1,68 @@
+ .v-main .contents h1:after {
+    background: linear-gradient(90deg, #B53620, #D66956 10%, rgba(13, 71, 161, 0)) !important;
+}
+
+ .v-main .contents h2:after {
+    background: linear-gradient(90deg, #f1d9a0, rgba(97, 97, 97, 0)) !important;
+}
+
+h2 {
+    color: #b53620 !important;
+}
+
+ .v-main .contents h3:after {
+    background: linear-gradient(90deg, #f1d9a0, rgba(97, 97, 97, 0)) !important;
+	opacity: 85% !important;
+	color: #BFBFBF !important;
+}
+
+.v-main .contents h3 {
+    color: #b53620 !important;
+    opacity: 85% !important;
+}
+
+.v-main .contents img {
+    z-index: 2 !important;
+    position: relative !important;
+}
+
+.container.grey.pa-0.container--fluid.darken-4-l3 {
+	display: none !important;
+}
+
+.flex.page-col-sd.order-xs1.lg3.xl2 {
+	padding-top: 83px !important;
+}
+.overline.pa-5.pb-0.blue--text.text--lighten-2 {
+	color: #f1d9a0 !important;
+}
+
+.v-application .teal.darken-1 {
+    background-color: #B53620 !important;
+    border-color: #b53620 !important;
+}
+
+.v-application .teal--text.text--lighten-3 {
+    color: #f1d9a0 !important;
+    caret-color: #f1d9a0 !important;
+}
+
+.v-application .indigo--text.text--lighten-3 {
+    color: #f1d9a0 !important;
+    caret-color: #f1d9a0 !important;
+}
+body {
+    letter-spacing: 0.01em !important;
+}
+.minmatar {
+	color: #b53620 !important;
+}
+.fleet-red {
+	color: #b53620 !important;
+}
+.fleet-tan {
+	color: #f1d9a0 !important;
+}
+strong {
+	color: #f1d9a0 !important;
+}
